@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amruteshdevadas
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Web Tools
-- 💞️ I’m looking to collaborate on web building rojects
+- 💞️ I’m looking to collaborate on web building projects
 - 📫 How to reach me at amruteshdevadas@gmail.com
 
 <!---
