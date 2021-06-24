@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amruteshdevadas
+- 👋 Hi, I’m Amrutesh!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Web Tools
 - 💞️ I’m looking to collaborate on web building projects
